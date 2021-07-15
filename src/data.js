@@ -24,10 +24,10 @@ export const projects = [
     link: "http://tri-lakeshandyman.com",
   },
   {
-    title: "Jeep Harness",
-    subtitle: "Hard Top Jeep Harness",
+    title: "Jeep Hard Top structure",
+    subtitle: "Hard Top Jeep structure",
     description:
-        "Designed and Installed Harness to remove Jeep Hard Top.",
+        "Designed and Installed structure to remove Jeep Hard Top.",
     image: "./JeepHarness.jpg",
     link: "http://tri-lakeshandyman.com",
   }

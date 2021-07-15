@@ -15,6 +15,12 @@ const inlineStyle = {
     transform: 'translate(-50%, -50%)',
 }
 
+const imageBorderStyle = {
+    borderWidth: '5px',
+    borderColor: 'Black',
+    background: 'Black',
+};
+
 export default function Projects(){
     return (
         <section id="projects" className="text-gray-400 bg-gray-900 body-font">
@@ -38,7 +44,7 @@ export default function Projects(){
                                 className="sm:w-1/2 w-100 p-4">
                                 <div className="flex relative">
                                 <img
-                                    alt="gallery"
+                                            alt="gallery" style={imageBorderStyle}
                                             className="absolute inset-0 w-full h-full object-center object-contain"
                                     src={project.image}
                                 />
