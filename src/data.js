@@ -1,36 +1,38 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Oriental Bridge",
+    subtitle: "Assemble and Install",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Assemble and Install oriental bridge for outdoor stream.",
+    image: "./Bridge.jpg",
+    link: "http://tri-lakeshandyman.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+        title: "Hanging the Sun",
+        subtitle: "Mount the Sun",
+        description:
+            "Hang decorative Sun securely on exterior of home",
+        image: "./Sunburst.jpg",
+        link: "http://tri-lakeshandyman.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "For the Birds",
+    subtitle: "Artistic Birdhouse",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+            "Artistic Birdhouse hanging design to prevent rotation.",
+    image: "./BirdFeeder.jpg",
+    link: "http://tri-lakeshandyman.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Jeep Harness",
+    subtitle: "Hard Top Jeep Harness",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+        "Designed and Installed Harness to remove Jeep Hard Top.",
+    image: "./JeepHarness.jpg",
+    link: "http://tri-lakeshandyman.com",
+  }
+  
+  
 ];
 
 export const testimonials = [
